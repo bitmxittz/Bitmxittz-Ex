@@ -1,2 +1,2 @@
 # Bitmxittz-Ex
-Bitmxittz digital assets market script
+Bitmxittz digital assets exchange script
